@@ -235,6 +235,8 @@ const TOOL_ALIASES = {
   'claude':       'Claude Code',
   'claude-code':  'Claude Code',
   'claudecode':   'Claude Code',
+  'copilot':      'Claude Code',
+  'copilot-cli':  'Claude Code',
   'cursor':       'Cursor',
   'codex':        'Codex CLI',
   'kiro':         'Kiro',
